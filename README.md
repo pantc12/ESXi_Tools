@@ -1,4 +1,4 @@
-ESXi Tools
+ESXi Tools For OS X
 ==========
 
 VMRC (VMware Remote Control) Tool
